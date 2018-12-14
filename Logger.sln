@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{60AD85BE-17A0-49FD-BD47-57234E23801B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{FC3AF32A-F913-4906-AE00-D4E1F33DB7DF}"
+	ProjectSection(SolutionItems) = preProject
+		LoggerClient\Program.cs = LoggerClient\Program.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerDataAccess", "LoggerDataAccess\LoggerDataAccess.csproj", "{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogWebServer", "LogWebServer\LogWebServer.csproj", "{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogWcfService", "LogWcfService\LogWcfService.csproj", "{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerClient", "LoggerClient\LoggerClient.csproj", "{0DDCAA8B-3790-4136-A606-7415C651F755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDCAA8B-3790-4136-A606-7415C651F755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDCAA8B-3790-4136-A606-7415C651F755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDCAA8B-3790-4136-A606-7415C651F755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDCAA8B-3790-4136-A606-7415C651F755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B30AAFE0-80F8-4ACD-AC07-9B9E0763B079} = {FC3AF32A-F913-4906-AE00-D4E1F33DB7DF}
+		{0BA6B91A-5328-4B86-8CE7-09562D1DBC7C} = {FC3AF32A-F913-4906-AE00-D4E1F33DB7DF}
+		{8DD6B8C3-1A7F-4BA9-AEED-4DEEAECB8EDC} = {FC3AF32A-F913-4906-AE00-D4E1F33DB7DF}
+		{0DDCAA8B-3790-4136-A606-7415C651F755} = {60AD85BE-17A0-49FD-BD47-57234E23801B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B37CFE9-358C-499F-9F39-5ED366466598}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\LoggerDataAccess.dll.config
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\LoggerDataAccess.dll
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\LoggerDataAccess.pdb
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\obj\Debug\LoggerDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\obj\Debug\LoggerDataAccess.csproj.CopyComplete
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\obj\Debug\LoggerDataAccess.dll
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\obj\Debug\LoggerDataAccess.pdb
+C:\Users\svetlana.volkova\source\repos\Logger\LoggerDataAccess\obj\Debug\LoggerDataAccess.csprojAssemblyReference.cache
